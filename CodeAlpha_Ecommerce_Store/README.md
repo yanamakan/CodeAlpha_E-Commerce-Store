@@ -2,7 +2,7 @@
 
 Simple E-commerce Store — Full Stack Development, Task 1 (CodeAlpha internship).
 
-Built with **Node.js + Express.js** (no Django) and a **SQLite** database (via Node's built-in `node:sqlite` module — no separate DB server, and nothing to compile).
+Built with **Node.js + Express.js** and a **SQLite** database (via Node's built-in `node:sqlite` module — no separate DB server, and nothing to compile).
 
 > Requires **Node.js 22.5+** (check with `node -v`). If you're on an older version, upgrade Node from [nodejs.org](https://nodejs.org).
 
@@ -18,8 +18,8 @@ Built with **Node.js + Express.js** (no Django) and a **SQLite** database (via N
 ## Tech Stack
 
 - **Backend:** Node.js, Express.js, express-session, bcryptjs
-- **Database:** SQLite (better-sqlite3)
-- **Frontend:** Plain HTML, CSS, JavaScript (no framework — fetch API calls to the backend)
+- **Database:** SQLite
+- **Frontend:** Plain HTML, CSS, JavaScript
 
 ## Project Structure
 
