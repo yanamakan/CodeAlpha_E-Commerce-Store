@@ -70,9 +70,3 @@ The SQLite database file (`db/store.db`) and sample products are created automat
 4. Go to **Cart** to update quantities or remove items.
 5. Click **Proceed to Checkout**, fill in shipping details, and place the order.
 6. View your past orders under **My Orders**.
-
-## Notes for Submission (per CodeAlpha instructions)
-
-- Push this project to a GitHub repo named `CodeAlpha_EcommerceStore` (or similar, prefixed `CodeAlpha_`).
-- Record a short video walking through the features (register → browse → cart → checkout → order history) and post it on LinkedIn tagging @CodeAlpha, linking the GitHub repo.
-- Submit via the official submission form shared in your CodeAlpha WhatsApp group.
